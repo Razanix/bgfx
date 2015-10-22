@@ -1,7 +1,8 @@
-.build
 .debug
 .DS_Store
 .git
 .svn
 tags
 .gdb_history
+.suo
+.sdf
